@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - takes a pointer to an int as parameter
- * @n: number of elements
+ * @n: reference to the stored n pointer
  */
 
 void reset_to_98(int *n)
