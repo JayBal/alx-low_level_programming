@@ -4,6 +4,7 @@
 /**
  * _putchar - puts character to standard output
  * @c: character to put to standard output
+ * Also acts as README.md
  */
 
 int _putchar(char c);
